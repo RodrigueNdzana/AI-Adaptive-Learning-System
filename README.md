@@ -30,5 +30,7 @@ The platform will allow students to access accessible learning resources while h
 - Database: MongoDB
 - AI Model: Python (Machine Learning)
 
+
+
 ## Author
 Rodrigue Ndzana Ngonga Beaubane-- 219384096
