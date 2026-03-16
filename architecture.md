@@ -29,7 +29,7 @@ Description: Students interact with the adaptive learning system to access perso
 
 # C4 Model Models
 ## Container Diagram
-(diagram/containertDiagram.png)
+![container](/diagram/containertDiagram.png)
 ##Containers:
 
 Web Application – user interface for students and teachers
@@ -38,7 +38,7 @@ Database – stores student data and learning progress
 AI Engine – generates personalized learning recommendations
 
 ##Component Diagram
-(diagram/componentDiagram.png)
+![component](/diagram/componentDiagram.png)
 
 ##Components:
 
