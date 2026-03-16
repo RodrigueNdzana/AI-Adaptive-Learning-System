@@ -21,8 +21,8 @@ The platform will allow students to access accessible learning resources while h
 
 ## Project Documentation
 
-- ![System Specification](/SPECIFICATION.md)
-- ![System Architecture](/ARCHITECTURE.md)
+- [System Specification](SPECIFICATION.md)
+- [System Architecture](ARCHITECTURE.md)
 
 ## Technology Stack (Planned)
 - Frontend: React.js
