@@ -31,4 +31,4 @@ The platform will allow students to access accessible learning resources while h
 - AI Model: Python (Machine Learning)
 
 ## Author
-Your Name
+Rodrigue Ndzana Ngonga Beaubane-- 219384096
