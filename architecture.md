@@ -18,7 +18,7 @@ This project will implement a prototype system demonstrating AI-based adaptive l
 
 ## 1. System Context Diagram
 
-```mermaid
+
 flowchart TD
     Student --> AdaptiveLearningSystem
     Teacher --> AdaptiveLearningSystem
@@ -29,17 +29,17 @@ Description: Students interact with the adaptive learning system to access perso
 
 # C4 Model Models
 ## Container Diagram
-[container](/diagram/containertDiagram.png)
+![container](/diagram/containertDiagram.png)
 
-##Containers:
+## Containers:
 
 Web Application – user interface for students and teachers
 Backend API – handles application logic
 Database – stores student data and learning progress
 AI Engine – generates personalized learning recommendations
 
-##Component Diagram
-[component](/diagram/componentDiagram.png)
+## Component Diagram
+![component](/diagram/componentDiagram.png)
 
 ##Components:
 
@@ -68,4 +68,3 @@ What the System would do:
 - AI Engine
 - Machine Learning Model
 
----
