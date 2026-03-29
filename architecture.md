@@ -18,13 +18,6 @@ This project will implement a prototype system demonstrating AI-based adaptive l
 
 ## 1. System Context Diagram
 
-
-flowchart TD
-    Student --> AdaptiveLearningSystem
-    Teacher --> AdaptiveLearningSystem
-    AdaptiveLearningSystem --> Database
-    AdaptiveLearningSystem --> AIEngine
-
 Description: Students interact with the adaptive learning system to access personalized learning materials. Teachers use the system to monitor student progress. The system stores information in a database and uses an AI engine to personalize learning.
 
 # C4 Model Models

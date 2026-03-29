@@ -26,6 +26,10 @@ The platform will allow students to access accessible learning resources while h
 - [Stakeholder Analysis Table](stakeholderAnalysisTable.md)
 - [System Requirements Document](systemRequirementsDocument.md)
 - [Reflection](reflection.md)
+- [Use Case Diagram](useCase.md)
+- [Use Case Specification](useCaseSpecification.md)
+- [Test case](testCases.md)
+- [Reflection part 2](reflectionPart2.md)
 
 ## Technology Stack (Planned)
 - Frontend: React.js

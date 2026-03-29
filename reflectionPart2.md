@@ -1,0 +1,12 @@
+#  Reflection 
+Developing use cases and test cases from the system requirements was both challenging and insightful. One of the main challenges was translating high-level functional requirements into concrete interactions between users and the system. While the SRD clearly described what the system should do, breaking it down into step-by-step use case flows required careful thinking to ensure completeness and accuracy.
+
+Another challenge was identifying the most critical use cases. The system includes many features, such as AI recommendations, accessibility support, dashboards, and reporting tools. Selecting only eight use cases meant prioritising those that deliver the most value to stakeholders, particularly students with disabilities and educators. This required aligning the use cases with stakeholder needs such as accessibility, performance tracking, and early intervention.
+
+Creating alternative flows was also difficult because it required anticipating possible errors and edge cases. For example, handling failed login attempts, unavailable content formats, or incorrect AI predictions required thinking beyond the “happy path.” This step was important because it ensures the system is robust and can handle real-world situations.
+
+The development of test cases helped validate whether the system truly meets its requirements. Writing test steps forced a deeper understanding of system behaviour and highlighted areas where requirements needed to be more precise. For instance, defining expected results for AI recommendations required measurable criteria such as the number of recommendations or response time.
+
+Non-functional testing was particularly interesting because it focuses on system quality rather than functionality. Testing performance and security required thinking about real-world conditions, such as high user load and potential security threats. These tests are essential for ensuring the system is reliable, scalable, and secure.
+
+Overall, this process improved my understanding of how requirements engineering connects to system design and testing. It showed that clear requirements are essential for building effective systems and that use cases and test cases play a critical role in ensuring that stakeholder needs are met. The experience also highlighted the importance of considering accessibility and inclusivity in system design, especially for educational platforms.
