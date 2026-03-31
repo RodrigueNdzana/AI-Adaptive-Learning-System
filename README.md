@@ -21,21 +21,30 @@ The platform will allow students to access accessible learning resources while h
 
 ## Project Documentation
 
+### Stakeholder and System Requirements Documentation for the System 
 - [System Specification](specification.md)
 - [System Architecture](architecture.md)
 - [Stakeholder Analysis Table](stakeholderAnalysisTable.md)
 - [System Requirements Document](systemRequirementsDocument.md)
 - [Reflection](reflection.md)
-- [Use Case Diagram](useCase.md)
-- [Use Case Specification](useCaseSpecification.md)
-- [Test case](testCases.md)
-- [Reflection part 2](reflectionPart2.md)
+
+### Use Case Modeling and Test Case Development for the System
+
+- [Use Case Diagram](/Use%20Case%20Modeling%20and%20Test%20Case%20Development%20for%20the%20System/useCase.md)
+- [Use Case Specification](/Use%20Case%20Modeling%20and%20Test%20Case%20Development%20for%20the%20System/useCaseSpecification.md)
+- [Test case](/Use%20Case%20Modeling%20and%20Test%20Case%20Development%20for%20the%20System/testCases.md)
+- [Reflection part 2](/Use%20Case%20Modeling%20and%20Test%20Case%20Development%20for%20the%20System/reflectionPart2.md)
+
+### Agile User Stories, Backlog, and Sprint Planning for the System Objective
+- [User Story Creation](/Agile%20User%20Stories,Backlog%20and%20spring%20planning%20for%20the%20system/userStories.md)
+- [Product Backlog creation](/Agile%20User%20Stories,Backlog%20and%20spring%20planning%20for%20the%20system/productBacklog.md)
+
 
 ## Technology Stack (Planned)
 - Frontend: React.js
 - Backend: Node.js
 - Database: MongoDB
-- AI Model: Python (Machine Learning)
+- AI Model:gemini 
 
 
 
