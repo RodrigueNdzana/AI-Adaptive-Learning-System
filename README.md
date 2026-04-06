@@ -24,9 +24,9 @@ The platform will allow students to access accessible learning resources while h
 ### Stakeholder and System Requirements Documentation for the System 
 - [System Specification](specification.md)
 - [System Architecture](architecture.md)
-- [Stakeholder Analysis Table](stakeholderAnalysisTable.md)
-- [System Requirements Document](systemRequirementsDocument.md)
-- [Reflection](reflection.md)
+- [Stakeholder Analysis Table](/Stakeholder%20and%20System%20Requirements%20Documentation%20for%20the%20System/stakeholderAnalysisTable.md)
+- [System Requirements Document](/Stakeholder%20and%20System%20Requirements%20Documentation%20for%20the%20System/systemRequirementsDocument.md)
+- [Reflection](/Stakeholder%20and%20System%20Requirements%20Documentation%20for%20the%20System/reflection.md)
 
 ### Use Case Modeling and Test Case Development for the System
 
