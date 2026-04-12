@@ -39,6 +39,49 @@ The platform will allow students to access accessible learning resources while h
 - [User Story Creation](/Agile%20User%20Stories,Backlog%20and%20spring%20planning%20for%20the%20system/userStories.md)
 - [Product Backlog creation](/Agile%20User%20Stories,Backlog%20and%20spring%20planning%20for%20the%20system/productBacklog.md)
 
+### Kanban Board Customization
+- [Template Analysis](/GitHub%20Project%20Templates%20and%20Kanban%20Board%20Implementation/template_analysis.md)
+- [Kanban explanation](/GitHub%20Project%20Templates%20and%20Kanban%20Board%20Implementation/kanban_explanation.md)
+
+
+### Custom Columns Added
+
+To better reflect the development workflow, the following columns were added:
+
+- **Testing**  
+  Ensures all features are validated before completion.
+
+- **Blocked**  
+  Identifies tasks that are delayed due to dependencies or issues.
+
+---
+
+### Labels Used
+
+- `feature` – New functionality
+- `bug` – Issues or defects
+- `enhancement` – Improvements
+
+---
+
+### Task Management
+
+- User stories from Assignment 6 were converted into **GitHub Issues**
+- Issues are linked directly to the Kanban board
+- Tasks are assigned using **@mentions**
+
+---
+
+### Why These Customizations?
+
+These changes improve:
+
+- Workflow visibility  
+- Quality assurance tracking  
+- Issue identification  
+- Team accountability  
+
+This results in a more structured and efficient Agile process.
 
 ## Technology Stack (Planned)
 - Frontend: React.js

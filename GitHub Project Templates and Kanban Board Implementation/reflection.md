@@ -1,0 +1,23 @@
+# Reflection
+
+This assignment provided practical experience in using GitHub Projects as an Agile tool. One of the main challenges was selecting the most suitable template. Each template has its own strengths, and choosing one required understanding the needs of the system. The Automated Kanban template stood out because it supports automation and aligns well with Agile principles.
+
+Customizing the Kanban board was another challenge. Deciding which columns to add required thinking about the actual development workflow. Adding “Testing” and “Blocked” improved visibility, but it also required careful planning to ensure tasks moved correctly across the board.
+
+Another difficulty was linking user stories from Assignment 6 to GitHub Issues. This process required consistency in naming, labeling, and organizing tasks. However, it significantly improved traceability between requirements, user stories, and development tasks.
+
+Comparing GitHub Projects to tools like Trello and Jira revealed some differences. Trello is more user-friendly and visually simple, while Jira provides more advanced features for large teams. GitHub Projects, however, is tightly integrated with code repositories, making it very efficient for developers. This integration is a major advantage, even though it may feel less intuitive at first.
+
+Overall, this assignment improved my understanding of Agile workflows and project management tools. It highlighted the impo# Reflection
+
+This assignment provided valuable practical experience in using GitHub Projects to manage an Agile workflow. One of the main challenges I faced was selecting the most appropriate template from the available options. Each template, such as Kanban, Team Planning, and Iterative Development, offers different workflows and features. Initially, it was difficult to decide which one best aligned with my system requirements and previous assignments. I had to carefully compare their structures, automation capabilities, and suitability for Agile development before choosing the most appropriate one.
+
+Another challenge was ensuring consistency between my template analysis and the actual Kanban board implementation. At first, my board did not fully match the workflow described in my documentation. This forced me to go back and adjust the columns to align with the selected template. This process made me realize the importance of maintaining traceability and consistency across all parts of a project, from requirements to implementation.
+
+Customizing the Kanban board was also more complex than expected. While adding columns like “Testing” and “Blocked” seemed straightforward, deciding where tasks should be placed required careful thought. I had to consider how tasks flow through the system and how each column represents a stage in the development lifecycle. This helped me better understand how Agile teams visualize work and manage progress in real-world environments.
+
+Another difficulty I encountered was organizing and linking user stories from Assignment 6 into GitHub Issues. Although the process was repetitive, it required attention to detail to ensure that each issue included clear descriptions, acceptance criteria, labels, and assignments. However, once completed, it significantly improved visibility and made it easier to track progress on the board.
+
+When comparing GitHub Projects to other tools such as Trello and Jira, I noticed both advantages and limitations. Trello is more visually intuitive and easier for beginners, while Jira offers more advanced features for large-scale project management. GitHub Projects, however, is tightly integrated with the code repository, which makes it highly effective for developers. This integration allows seamless tracking between issues, code changes, and project progress, which is a major advantage despite its slightly steeper learning curve.
+
+Overall, this assignment enhanced my understanding of Agile methodologies and project management tools. It showed me how important visualization, organization, and continuous improvement are in managing software development projects. It also highlighted the practical challenges of applying theoretical concepts in a real-world tool. Through this experience, I have gained confidence in using GitHub Projects to plan, track, and manage development work effectively.                                                                                                                                                         rtance of visualization, organization, and adaptability in managing software projects. It also showed how tools like GitHub Projects can support real-world software development practices.
