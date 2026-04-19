@@ -44,7 +44,7 @@ The platform will allow students to access accessible learning resources while h
 - [Kanban explanation](/GitHub%20Project%20Templates%20and%20Kanban%20Board%20Implementation/kanban_explanation.md)
 
 
-### Custom Columns Added
+#### Custom Columns Added
 
 To better reflect the development workflow, the following columns were added:
 
@@ -56,7 +56,7 @@ To better reflect the development workflow, the following columns were added:
 
 ---
 
-### Labels Used
+#### Labels Used
 
 - `feature` – New functionality
 - `bug` – Issues or defects
@@ -64,15 +64,15 @@ To better reflect the development workflow, the following columns were added:
 
 ---
 
-### Task Management
+#### Task Management
 
 - User stories from Assignment 6 were converted into **GitHub Issues**
 - Issues are linked directly to the Kanban board
-- Tasks are assigned using **@mentions**
+- Tasks are assigned using **@mentions** myself (Rodrigue Ndzana)
 
 ---
 
-### Why These Customizations?
+#### Why These Customizations?
 
 These changes improve:
 
@@ -82,6 +82,21 @@ These changes improve:
 - Team accountability  
 
 This results in a more structured and efficient Agile process.
+
+### Object State Modeling and Activity Workflow Modeling
+- [State Modeling with State Transition Diagrams](/Object%20State%20Modeling%20and%20Activity%20Workflow%20Modeling%20Objective/stateModels.md)
+- [Activity Workflow Modeling with Activity Diagrams](/Object%20State%20Modeling%20and%20Activity%20Workflow%20Modeling%20Objective/activityModels.md)
+- [Reflection ](/Object%20State%20Modeling%20and%20Activity%20Workflow%20Modeling%20Objective/reflection.md)
+
+#### Traceability
+
+- FR-01 -> User Account State + Login Workflow
+- FR-02 -> Profile State + Profile Workflow
+- FR-03 -> Recommendation State + AI Workflow
+- FR-04 -> Content State + Content Access Workflow
+- FR-05 -> Dashboard State + Progress Workflow
+- FR-07 -> Alert State + Alert Workflow
+- FR-10 -> Content Upload State + Upload Workflow
 
 ## Technology Stack (Planned)
 - Frontend: React.js
