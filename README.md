@@ -98,6 +98,21 @@ This results in a more structured and efficient Agile process.
 - FR-07 -> Alert State + Alert Workflow
 - FR-10 -> Content Upload State + Upload Workflow
 
+### Domain Modeling and Class Diagram Development
+- [Domain Model](/Domain%20Modeling%20and%20Class%20Diagram%20Development/domain_model.md)
+- [Class Diagram](/Domain%20Modeling%20and%20Class%20Diagram%20Development/class_diagram.md)
+- [Reflection](/Domain%20Modeling%20and%20Class%20Diagram%20Development/reflection)
+## Traceability Across Assignments
+
+| Phase | Artifact | Purpose |
+|------|--------|--------|
+| Specification | Assignment 3 |system specitfication and architecture design |
+| Requirements | Assignment 4 | Defines system functionality |
+| Analysis | Assignment 5 | Models user interactions |
+| Agile Planning | Assignment 6 | Breaks system into tasks |
+| Workflow | Assignment 7 | Tracks development progress |
+| Behavior Modeling | Assignment 8 | Defines system workflows |
+| Structure Modeling | Assignment 9 | Defines system architecture |
 ## Technology Stack (Planned)
 - Frontend: React.js
 - Backend: Node.js
