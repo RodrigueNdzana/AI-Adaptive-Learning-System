@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AI-Adaptive-Learning-System.iml" filepath="$PROJECT_DIR$/AI-Adaptive-Learning-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pom.iml" filepath="$PROJECT_DIR$/pom.iml" />
     </modules>
   </component>
 </project>
