@@ -1,4 +1,31 @@
 package com.aiadaptive.repositories.inMemory;
 
-public class InMemoryStudentRepository {
+import com.aiadaptive.domain.Student;
+import com.aiadaptive.repositories.StudentRepository;
+
+import java.util.*;
+
+public class InMemoryStudentRepository implements StudentRepository {
+
+    private final Map<String, Student> storage = new HashMap<>();
+
+    @Override
+    public void save(Student student) {
+        storage.put(student.getId(), student);
+    }
+
+    @Override
+    public Optional<Student> findById(String id) {
+        return Optional.ofNullable(storage.get(id));
+    }
+
+    @Override
+    public List<Student> findAll() {
+        return new ArrayList<>(storage.values());
+    }
+
+    @Override
+    public void delete(String id) {
+        storage.remove(id);
+    }
 }
