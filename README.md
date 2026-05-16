@@ -146,6 +146,12 @@ This design ensures:
 - Separation of concerns
 - Scalability
 - Testability
+ 
+## Service Layer and REST API Implementation
+- Added UserService, ContentService, RecommendationService
+- Implemented REST API endpoints
+- Integrated Swagger documentation
+- Added unit and integration tests
   ![Demo ](/screenshot/Swagger1.png)**
 - ![Demo ](/screenshot/Swagger2ContentController.png)**
 - ![Demo ](/screenshot/swagger2ContentControllerDelete.png)**
@@ -153,13 +159,7 @@ This design ensures:
 - ![Demo ](/screenshot/swaggerRecommendation.png)**
 - ![Demo ](/screenshot/SwaggerStudent.png)**
 - ![Demo ](/screenshot/Swagger1.png)**
-**
-## Service Layer and REST API Implementation
-- Added UserService, ContentService, RecommendationService
-- Implemented REST API endpoints
-- Integrated Swagger documentation
-- Added unit and integration tests
-  ![Demo ](/screenshot/assigment11.png)
+  **
 ## Traceability Across Assignments
 
 | Phase | Artifact      | Purpose                                       |
