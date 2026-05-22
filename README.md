@@ -180,7 +180,17 @@ This project uses GitHub Actions for Continuous Integration and Continuous Deplo
 ![Demo ](/screenshot/assigment%2013/branch4.png)
 ![Demo ](/screenshot/assigment%2013/branch5.png)
 ![Demo ](/screenshot/assigment%2013/branch6.png)
+![Demo ](/screenshot/assigment%2013/branch5.png)
+![Demo ](/screenshot/assigment%2013/branch6.png)
+![Demo ](/screenshot/assigment%2013/branch7.png)
+![Demo ](/screenshot/assigment%2013/branch8.png)
+![Demo ](/screenshot/assigment%2013/branch9.png)
+![Demo ](/screenshot/assigment%2013/branch10.png)
+![Demo ](/screenshot/assigment%2013/branch11.png)
+![Demo ](/screenshot/assigment%2013/branch12.png)
 
+### Test results in GitHub Actions
+![Demo ](/screenshot/assigment%2013/action1.png)
 
 | Phase | Artifact      | Purpose                                       |
 |------|---------------|-----------------------------------------------|
