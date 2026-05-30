@@ -5,6 +5,7 @@
 The AI Adaptive Learning System is a web-based platform designed to support students with disabilities by providing personalized learning experiences. The system uses Artificial Intelligence to analyze student learning behaviour and adapt learning materials according to individual needs.
 
 The platform will allow students to access accessible learning resources while helping educators monitor progress and identify learning difficulties early.
+This project is built using **Java (Maven-based build system)** and follows standard software engineering practices including modular design, testing, and CI/CD integration.
 
 ## Project Objectives
 - Provide adaptive learning support for students with disabilities
@@ -191,6 +192,7 @@ This project uses GitHub Actions for Continuous Integration and Continuous Deplo
 
 ### Test results in GitHub Actions
 ![Demo ](/screenshot/assigment%2013/action1.png)
+![Demo ](/screenshot/assigment%2013/testcase.png)
 
 | Phase | Artifact      | Purpose                                       |
 |------|---------------|-----------------------------------------------|
@@ -203,11 +205,125 @@ This project uses GitHub Actions for Continuous Integration and Continuous Deplo
 | Structure Modeling | Assignment 9  | Defines system architecture                   |
 | Design Decisions | Assignment 10 | Implementation of design pattern              | 
 | Repository Layer Design | Assignment 11 | creation of CRUID                             |
-## Technology Stack (Planned)
-- Frontend: React.js
-- Backend: Node.js
-- Database: MongoDB
-- AI Model:gemini 
+
+
+
+
+## Tech Stack
+
+- Language: Java (JDK 17+ recommended)
+- Build Tool: Maven
+- Testing: JUnit 5
+- Logging: SLF4J (with Logback or Log4j binding)
+- Version Control: Git & GitHub
+- CI/CD: GitHub Actions
+
+---
+
+## Getting Started
+
+Follow these steps to set up and run the project locally.
+
+### Prerequisites
+
+Ensure the following are installed:
+- Java JDK 17 or higher
+- Maven 3.8+
+- Git
+
+Verify installations:
+```bash
+java -version
+mvn -version
+git --version
+```
+
+---
+
+### Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+
+---
+
+### Build the Project
+
+Compile and package the application:
+```bash
+mvn clean install
+```
+
+---
+
+### Run the Application
+
+If this is a standard Java application:
+```bash
+mvn exec:java
+```
+
+If this is a Spring Boot application:
+```bash
+mvn spring-boot:run
+```
+
+---
+
+## Testing
+
+Run unit tests using:
+```bash
+mvn test
+```
+
+---
+
+## Features for Contribution
+
+The following areas are open for contributors:
+
+| Feature Area        | Description | Contribution Type |
+|---------------------|-------------|------------------|
+| Authentication      | Improve login/signup logic and security | Feature Request |
+| API Layer           | Extend REST endpoints and integrations | Feature Request |
+| Logging System      | Fix SLF4J conflicts and improve logging consistency | Bug Fix |
+| Testing             | Increase JUnit test coverage | Good First Issue |
+| Documentation       | Improve README and code comments | Good First Issue |
+| CI/CD Pipeline      | Enhance GitHub Actions workflow | Feature / DevOps |
+
+---
+
+## CI/CD (GitHub Actions)
+
+This project supports automated build and test pipelines using GitHub Actions.
+
+Workflow includes:
+- Build with Maven
+- Run unit tests
+- Package artifact (JAR)
+
+---
+
+## Contribution Guidelines
+
+1. Fork the repository
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Commit changes with clear messages
+4. Push to your fork
+5. Open a Pull Request
+
+---
+
+## License
+
+This project is licensed under the MIT License (or specify your license here).
 
 
 
