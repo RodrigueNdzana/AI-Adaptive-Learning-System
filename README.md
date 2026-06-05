@@ -1,22 +1,26 @@
-# AI-Adaptive-Learning-System
 # AI Adaptive Learning System
 
-## Project Description
-The AI Adaptive Learning System is a web-based platform designed to support students with disabilities by providing personalized learning experiences. The system uses Artificial Intelligence to analyze student learning behaviour and adapt learning materials according to individual needs.
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
+![Maven](https://img.shields.io/badge/Maven-3.x-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-The platform will allow students to access accessible learning resources while helping educators monitor progress and identify learning difficulties early.
-This project is built using **Java (Maven-based build system)** and follows standard software engineering practices including modular design, testing, and CI/CD integration.
+A modern **AI-powered adaptive learning platform** designed to provide personalized learning experiences, especially for students with disabilities.
 
-## Project Objectives
-- Provide adaptive learning support for students with disabilities
-- Improve accessibility to digital learning platforms
-- Personalize learning content using Artificial Intelligence
-- Enable educators to monitor student learning progress
+## Project Overview
 
-## System Features (Planned)
-- Student learning profiles
-- AI-based learning recommendations
+The AI Adaptive Learning System uses artificial intelligence to analyze student learning patterns and dynamically adapt educational content to match individual needs, pace, and learning style. It assists teachers in monitoring progress and identifying learning difficulties early.
+
+This project was developed as part of **The IT Code Academy** curriculum, applying clean architecture, design patterns, and collaborative development practices.
+
+## Features
+
+- Personalized learning path recommendations
+- Student performance tracking and analytics
+- Adaptive content delivery based on AI insights
+- Teacher dashboard for monitoring and intervention
 - Accessible learning materials
+- Progress reports and feedback system
 - Progress tracking dashboard
 - Teacher feedback system
 
@@ -196,7 +200,7 @@ This project uses GitHub Actions for Continuous Integration and Continuous Deplo
 
 | Phase | Artifact      | Purpose                                       |
 |------|---------------|-----------------------------------------------|
-| Specification | Assignment 3  | system specitfication and architecture design |
+| Specification | Assignment 3  | system specification and architecture design |
 | Requirements | Assignment 4  | Defines system functionality                  |
 | Analysis | Assignment 5  | Models user interactions                      |
 | Agile Planning | Assignment 6  | Breaks system into tasks                      |
@@ -204,48 +208,45 @@ This project uses GitHub Actions for Continuous Integration and Continuous Deplo
 | Behavior Modeling | Assignment 8  | Defines system workflows                      |
 | Structure Modeling | Assignment 9  | Defines system architecture                   |
 | Design Decisions | Assignment 10 | Implementation of design pattern              | 
-| Repository Layer Design | Assignment 11 | creation of CRUID                             |
+| Repository Layer Design | Assignment 11 | creation of CRUD                             |
 
 
 
+>>>>>>> 9a83d041b0f49a00012477881710f076fb5857fc
 
 ## Tech Stack
 
-- Language: Java (JDK 17+ recommended)
-- Build Tool: Maven
-- Testing: JUnit 5
-- Logging: SLF4J (with Logback or Log4j binding)
-- Version Control: Git & GitHub
-- CI/CD: GitHub Actions
+- **Language**: Java 17
+- **Framework**: Spring Boot
+- **Build Tool**: Maven
+- **Testing**: JUnit 5 + Mockito
+- **CI/CD**: GitHub Actions
+- **Database**: H2 (In-memory) / Configurable
 
----
-
-## Getting Started
-
-Follow these steps to set up and run the project locally.
+## Quick Start
 
 ### Prerequisites
-
-Ensure the following are installed:
 - Java JDK 17 or higher
 - Maven 3.8+
-- Git
 
-Verify installations:
+### Setup and Run
+
 ```bash
-java -version
-mvn -version
-git --version
-```
+# Clone the repository
+git clone https://github.com/your-username/AI-Adaptive-Learning-System.git
+cd AI-Adaptive-Learning-System
 
+<<<<<<< HEAD
+# Build the project
+=======
 ---
 
 ### Installation
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/RodrigueNdzana/AI-Adaptive-Learning-System.git
+cd https://github.com/RodrigueNdzana/AI-Adaptive-Learning-System.git
 ```
 
 ---
@@ -254,72 +255,34 @@ cd your-repo
 
 Compile and package the application:
 ```bash
+>>>>>>> 9a83d041b0f49a00012477881710f076fb5857fc
 mvn clean install
-```
 
----
-
-### Run the Application
-
-If this is a standard Java application:
-```bash
-mvn exec:java
-```
-
-If this is a Spring Boot application:
-```bash
-mvn spring-boot:run
-```
-
----
-
-## Testing
-
-Run unit tests using:
-```bash
+# Run tests
 mvn test
-```
 
----
+# Run the application
+mvn spring-boot:run
 
-## Features for Contribution
+The application will be available at http://localhost:8080
 
-The following areas are open for contributors:
+# Project Documentation
 
-| Feature Area        | Description | Contribution Type |
-|---------------------|-------------|------------------|
-| Authentication      | Improve login/signup logic and security | Feature Request |
-| API Layer           | Extend REST endpoints and integrations | Feature Request |
-| Logging System      | Fix SLF4J conflicts and improve logging consistency | Bug Fix |
-| Testing             | Increase JUnit test coverage | Good First Issue |
-| Documentation       | Improve README and code comments | Good First Issue |
-| CI/CD Pipeline      | Enhance GitHub Actions workflow | Feature / DevOps |
+- System Specification
+- Architecture
+- Stakeholder & System Requirements
+- Use Cases & Test Cases
+- Agile Planning
+- Domain & Class Diagrams
 
----
+# Contributing
 
-## CI/CD (GitHub Actions)
+Please read CONTRIBUTING.md for details on our code of conduct, coding standards, branch naming conventions, and the pull request process.
 
-This project supports automated build and test pipelines using GitHub Actions.
+We welcome contributions! Look for issues labeled good-first-issue or help-wanted.
 
-Workflow includes:
-- Build with Maven
-- Run unit tests
-- Package artifact (JAR)
+# License
 
----
+This project is for educational purposes as part of THE IT CODE ACADEMY program.
 
-## Contribution Guidelines
 
-1. Fork the repository
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit changes with clear messages
-4. Push to your fork
-5. Open a Pull Request
-
----
-
-## Author
-Rodrigue Ndzana Ngonga Beaubane-- 219384096
