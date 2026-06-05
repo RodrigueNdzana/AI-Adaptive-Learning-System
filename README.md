@@ -196,7 +196,7 @@ This project uses GitHub Actions for Continuous Integration and Continuous Deplo
 
 | Phase | Artifact      | Purpose                                       |
 |------|---------------|-----------------------------------------------|
-| Specification | Assignment 3  | system specitfication and architecture design |
+| Specification | Assignment 3  | system specification and architecture design |
 | Requirements | Assignment 4  | Defines system functionality                  |
 | Analysis | Assignment 5  | Models user interactions                      |
 | Agile Planning | Assignment 6  | Breaks system into tasks                      |
@@ -204,7 +204,7 @@ This project uses GitHub Actions for Continuous Integration and Continuous Deplo
 | Behavior Modeling | Assignment 8  | Defines system workflows                      |
 | Structure Modeling | Assignment 9  | Defines system architecture                   |
 | Design Decisions | Assignment 10 | Implementation of design pattern              | 
-| Repository Layer Design | Assignment 11 | creation of CRUID                             |
+| Repository Layer Design | Assignment 11 | creation of CRUD                             |
 
 
 
@@ -244,8 +244,8 @@ git --version
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/RodrigueNdzana/AI-Adaptive-Learning-System.git
+cd https://github.com/RodrigueNdzana/AI-Adaptive-Learning-System.git
 ```
 
 ---
