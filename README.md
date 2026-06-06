@@ -320,6 +320,8 @@ Workflow includes:
 5. Open a Pull Request
 
 ---
-
+## Cross-Project Contributions & Collaborative Development
+- [Contribution Plan](CONTRIBUTION_PLAN.md)
+- [Reflection](/Cross-Project%20Contributions%20&%20Collaborative%20Development/reflection.md)
 ## Author
 Rodrigue Ndzana Ngonga Beaubane-- 219384096
