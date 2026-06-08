@@ -84,7 +84,15 @@ This roadmap outlines planned future enhancements for the project.
 - Azure Hosting
 
 ---
+## Future Enhancements
 
+- Personalized learning dashboards
+- AI-powered content recommendations
+- Student progress tracking
+- Learning path customization
+- Real-time performance insights
+
+---
 # Community Contributions
 
 Contributors can help with:
