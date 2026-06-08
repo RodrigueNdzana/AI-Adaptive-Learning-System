@@ -102,7 +102,15 @@ This roadmap outlines planned and completed enhancements for the project, organi
 - [TODO] Real-time Analytics Dashboard
 
 ---
+## Future Enhancements
 
+- Personalized learning dashboards
+- AI-powered content recommendations
+- Student progress tracking
+- Learning path customization
+- Real-time performance insights
+
+---
 # Community Contributions
 
 Contributors are welcome to help with:
