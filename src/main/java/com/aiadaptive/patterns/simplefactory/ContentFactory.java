@@ -15,7 +15,7 @@ public class ContentFactory {
                 return new TextContent();
 
             default:
-                throw new IllegalArgumentException("Invalid type");
+                throw new IllegalArgumentException("Invalid content type: '" + type + "'. Accepted values are: 'VIDEO', 'AUDIO', 'TEXT'.");
         }
     }
 }

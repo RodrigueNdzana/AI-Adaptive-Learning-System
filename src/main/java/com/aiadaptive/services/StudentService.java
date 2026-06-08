@@ -18,7 +18,7 @@ public class StudentService {
 
     public Student createStudent(Student student) {
         if (student.getName() == null || student.getName().isEmpty()) {
-            throw new RuntimeException("Student name is required");
+            throw new IllegalArgumentException("Student name is required and cannot be null or empty.");
         }
 
         return repo.save(student);
