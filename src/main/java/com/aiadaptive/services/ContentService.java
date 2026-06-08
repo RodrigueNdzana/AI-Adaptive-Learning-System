@@ -26,7 +26,7 @@ public class ContentService {
 
     public Content updateContent(String id, Content updated) {
         Content existing = contentRepo.findById(id)
-                .orElseThrow(() -> new RuntimeException("Content not found"));
+                .orElseThrow(() -> new RuntimeException("Content with ID '" + id + "' was not found."));
 
         existing.setTitle(updated.getTitle());
         existing.setFormat(updated.getFormat());
